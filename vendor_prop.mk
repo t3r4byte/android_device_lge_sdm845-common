@@ -6,6 +6,7 @@
 PRODUCT_PROPERTY_OVERRIDES += \
     bluetooth.chip.vendor=qcom \
     persist.vendor.btstack.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aac-ldac \
+    vendor.qcom.bluetooth.soc=cherokee \
     vendor.bluetooth.soc=cherokee \
     qcom.bluetooth.soc=cherokee
 
